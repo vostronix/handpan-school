@@ -3,7 +3,7 @@
     <title>Handpan School</title>
     <link href="https://handpan.school/feed.xml" rel="self" />
     <link href="https://handpan.school" />
-    <updated>2026-01-08T12:16:09+01:00</updated>
+    <updated>2026-05-13T13:04:32+02:00</updated>
     <author>
         <name>Mari</name>
     </author>
@@ -139,6 +139,30 @@
                     <p><img src="https://handpan.school/media/posts/8/flinta-workshop.png" class="type:primaryImage" alt="" /></p>
                 <p class="dropcap">We’re running special handpan workshops that are open <strong>exclusively</strong> to <strong>F</strong>emales, <strong>L</strong>esbians, <strong>I</strong>ntersex, <strong>N</strong>on‑binary, <strong>T</strong>rans, and <strong>A</strong>gender folks (and anyone else who lives outside the binary).</p>
 <p class="msg msg--info">👉 If you identify with any of these groups and want to join a supportive Handpan Courses, just contact <strong><a href="https://handpan.school/mari-hartig/">Mari Hartig</a></strong></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Booking 📅🗓️✍️</title>
+        <author>
+            <name>Mari</name>
+        </author>
+        <link href="https://handpan.school/calandar-2/"/>
+        <id>https://handpan.school/calandar-2/</id>
+
+        <updated>2026-01-05T01:18:48+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    🎶 Ready to play the handpan? 🎶 Check our calendar 📅 to find available spots for your favorite class or workshop. Once you find the perfect event, simply send an email ✉️ to the instructor who created it to secure your place! If you have&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>🎶 <strong>Ready to play the handpan?</strong> 🎶</h1>
+<p>Check our calendar 📅 to find available spots for your favorite class or workshop. Once you find the perfect event, simply send an email ✉️ to the instructor who created it to secure your place!</p>
+<div class="post__iframe"><iframe loading="lazy" width="800" height="600" style="border: 0;" class="google-calendar" src="https://calendar.google.com/calendar/embed?src=qniuvmsv36n3spfi2svkagghhuhpu7er%40import.calendar.google.com&amp;ctz=Europe%2FBerlin" frameborder="0" scrolling="no"></iframe></div>
+<p class="msg msg--info">If you have any questions or need help, feel free to reach out. We can't wait to make music together! 🎵✨ To add Courses Calendar hit the <strong>ICS Download Button</strong></p>
+<p><a href="https://atmo.rsvp/p/handpan.school/calendar.ics" class="btn btn--large btn--outline">Download ICS File</a></p>
             ]]>
         </content>
     </entry>
